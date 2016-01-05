@@ -64,6 +64,7 @@ var Swipeable = React.createClass({
 	},
 
 	touchMove: function (e) {
+		e.preventDefault();
 		if (!this.state.x || !this.state.y || e.touches.length > 1) {
 			return
 		}
