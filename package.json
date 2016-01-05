@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable",
-  "version": "3.1.0",
+  "version": "0.0.1",
   "description": "Swipe bindings for react",
   "main": "js/Swipeable.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "android",
     "react-component"
   ],
-  "author": "Josh Perez <josh@goatslacker.com>",
+  "author": "Abilash S <abilash.s.90@gmail.com>",
   "repository": {
     "type": "git",
     "url": "http://github.com/dogfessional/react-swipeable.git"
